@@ -1,0 +1,16 @@
+{
+  "name": "new-year-motion-pack-2027",
+  "version": "1.0.0",
+  "description": "Paket 10 motion graphic 4K bertema tahun baru 2027 dan niche stok (Remotion)",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.jsx",
+    "render": "remotion render src/index.jsx"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.138",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.138"
+  }
+}
